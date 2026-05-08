@@ -1,0 +1,15 @@
+Ganpati Paswan
+7417215677
+paswan
+
+
+6. Summary of Java I/O
+Feature	Description
+Byte Stream	Reads/writes data in bytes (e.g., images, PDFs)
+Character Stream	Reads/writes data in characters (e.g., text files)
+FileInputStream	Reads file byte by byte
+FileOutputStream	Writes file byte by byte
+BufferedReader	Reads file efficiently (line by line)
+BufferedWriter	Writes file efficiently (with buffering)
+Scanner	Reads user input from the console
+🚀 Java I/O makes file handling and user input processing simple and efficient!
